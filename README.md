@@ -1,44 +1,44 @@
 # mmb_sample
 version 0.x
 
-project structure:
-.mvn
- -> wrapper
-  ->maven-wrapper
-  ->maven-wrapper.properties
-src
- ->main
-  ->java
-   ->com
-    ->mmb
-     ->attempt1
-      ->demo_0.1
-       ->Application
-       ->DatabaseLoader
-       ->Gurdwara
-       ->GurdwaraRepository
-  ->resources
-   ->static
-   ->templates
-   ->application.properties
-  ->script
-   ->build
-   ->node_modules
-   ->public
-    ->index.html
-   ->src
-    ->api
-     ->uriTemplateInterceptor
-     ->uriListConverter
-    ->App.js
-    ->App.css
-    ->App.test
-    ->client.js
-    ->follow
-    ->index.css
-    ->index.js
-    ->registerServiceWorker.js
-   ->package.json
- ->test
-  ->java
-pom.xml
+project structure: <br />
+.mvn <br />
+-> wrapper <br />
+-->maven-wrapper <br />
+-->maven-wrapper.properties <br />
+src <br />
+->main <br />
+-->java <br />
+--->com <br />
+---->mmb <br />
+----->attempt1 <br />
+------>demo_0.1 <br />
+------->Application <br />
+------->DatabaseLoader <br />
+------->Gurdwara <br />
+------->GurdwaraRepository <br />
+->resources <br />
+-->static <br />
+-->templates <br />
+-->application.properties <br />
+->script <br />
+-->build <br />
+-->node_modules <br />
+-->public <br />
+--->index.html <br />
+-->src <br />
+--->api <br />
+--->uriTemplateInterceptor <br />
+--->uriListConverter <br />
+--->App.js <br />
+--->App.css <br />
+--->App.test <br />
+--->client.js <br />
+--->follow <br />
+--->index.css <br />
+--->index.js <br />
+--->registerServiceWorker.js <br />
+--->package.json <br />
+->test <br />
+-->java <br />
+pom.xml <br />
